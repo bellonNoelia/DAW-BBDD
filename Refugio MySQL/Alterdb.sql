@@ -1,0 +1,2 @@
+ALTER DATABASE refugio_BLN 
+CHARACTER SET = utf8mb4
